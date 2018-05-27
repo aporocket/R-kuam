@@ -1,2 +1,2 @@
 # R-kuam
-R-kuma Series
+R-kuam Series
